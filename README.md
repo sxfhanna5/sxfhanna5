@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="TU_IMAGEN" width="190"/>
+<img src=""C:\Users\HANNA MURIEL\Desktop\Universidad\Web\Notas\gatitoo.jpg"" width="190"/>
 
 <br>
 
