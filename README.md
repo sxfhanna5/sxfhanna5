@@ -25,18 +25,15 @@
 
 </div>
 
-<br>
+
+
+
+##
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sxfhanna5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8C8DC&icon_color=E7B74F&text_color=FFF4B8"/>
+<img src="harry.gif" width="280"/>
 
 </div>
 
-<br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxfhanna5&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8C8DC&text_color=FFF4B8"/>
-
-</div>
