@@ -51,7 +51,7 @@
 
 <div align="center">
 
-## Hanna Muriel's contribution graph 🌻
+### Little contribution garden 🌻
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxfhanna5&bg_color=0D1117&color=F8C8DC&line=E7B74F&point=F8C8DC&area=true&hide_border=true"/>
 
@@ -70,5 +70,3 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxfhanna5&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8C8DC&text_color=FFF4B8"/>
-
-</div>
