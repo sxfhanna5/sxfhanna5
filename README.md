@@ -4,53 +4,20 @@
 
 <br>
 
-# Hanna Sof here! ✿
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=F8A8C8&center=true&vCenter=true&width=600&lines=interactive+media+designer+%E2%9C%BF;UX%2FUI+%C2%B7+visual+design+%C2%B7+creative+coding;turning+ideas+into+interactive+experiences+%F0%9F%8C%B7"/>
+# Hanna Sof here! ✿  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&duration=3000&pause=1000&color=F8A8C8&center=true&vCenter=true&width=900&height=50&lines=interactive+media+designer;design+%C2%B7+code+%C2%B7+create;turning+ideas+into+digital+experiences"/>
 
 </div>
 
-<br>
+**Creative toolkit**
 
-## ✿ my creative toolkit
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" height="32"/><img src="https://skillicons.dev/icons?i=canva" height="32"/><img src="https://skillicons.dev/icons?i=capcut" height="32"/>
 
----
+## 
+**Development toolkit**
 
-I love combining visual design, storytelling and technology to create digital experiences that feel thoughtful, playful and human.
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,tailwind" height="32"/>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" height="38"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=canva" height="38"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=capcut" height="38"/>
-
-<br><br>
-
-### ✿ development
-
----
-
-I turn ideas into interactive experiences through code, combining creativity with clean and functional interfaces.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,ts,react,tailwind" height="38"/>
-
-<br><br>
-
-<div align="left">
-
-## ✿ Hanna Muriel's contribution graph
-
----
-
-</div>
+##
 
 <div align="center">
 
@@ -73,4 +40,3 @@ I turn ideas into interactive experiences through code, combining creativity wit
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxfhanna5&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8C8DC&text_color=FFF4B8"/>
 
 </div>
-
