@@ -10,9 +10,9 @@
 
 **Creative toolkit ₊˚⊹♡**
 
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" height="32"/><img src="https://skillicons.dev/icons?i=canva" height="32"/><img src="https://skillicons.dev/icons?i=capcut" height="32"/>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" height="32"/><img src="canva.png" height="32"/><img src="capcut.png" height="32"/>
 
-## 
+##
 **Development toolkit ˚☁︎˚｡**
 
 <img src="https://skillicons.dev/icons?i=html,css,ts,react,tailwind" height="32"/>
