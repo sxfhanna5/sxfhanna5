@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="TU_IMAGEN" width="190"/>
+<img src="gatito.jpg" width="190"/>
 
 <br>
 
