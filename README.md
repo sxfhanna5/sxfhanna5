@@ -5,9 +5,9 @@
 
 <br>
 
-# Hannah Muriel 🌻
+# Hanna Muriel 🌻
 
-### *interactive media designer · frontend developer · ux/ui*
+### *interactive media designer · ux/ui*
 
 </div>
 
@@ -51,7 +51,7 @@
 
 ### 🌼 little contribution garden
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=F8C8DC&line=E7B74F&point=F8C8DC&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxfhanna5&bg_color=0D1117&color=F8C8DC&line=E7B74F&point=F8C8DC&area=true&hide_border=true"/>
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8C8DC&icon_color=E7B74F&text_color=FFF4B8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sxfhanna5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F8C8DC&icon_color=E7B74F&text_color=FFF4B8"/>
 
 </div>
 
@@ -67,6 +67,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8C8DC&text_color=FFF4B8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxfhanna5&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8C8DC&text_color=FFF4B8"/>
 
 </div>
