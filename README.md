@@ -5,43 +5,28 @@
 
 <br>
 
-# Hanna Sof here! 🌻
-
-### *interactive media designer · ux/ui*
-
-</div>
-
-<br>
+# Hanna Sof here! ✿
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/html-FFF4B8?style=for-the-badge&logo=html5&logoColor=5B4636"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3000&pause=1000&color=F8A8C8&center=true&vCenter=true&width=650&lines=interactive+media+designer+%E2%9C%BF;UX%2FUI+%C2%B7+visual+design+%C2%B7+creative+coding;turning+ideas+into+interactive+experiences+%F0%9F%8C%B7" />
 
-<img src="https://img.shields.io/badge/css-F8D8E8?style=for-the-badge&logo=css3&logoColor=5B4636"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/typescript-FFF4B8?style=for-the-badge&logo=typescript&logoColor=5B4636"/>
+## ✿ my creative toolkit
 
-<img src="https://img.shields.io/badge/react-F8D8E8?style=for-the-badge&logo=react&logoColor=5B4636"/>
+### 🎨 design
 
-<img src="https://img.shields.io/badge/tailwind-FFF4B8?style=for-the-badge&logo=tailwind-css&logoColor=5B4636"/>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" height="55"/>
 
-</div>
+<img src="TU_LOGO_CANVA" height="55"/>
+<img src="TU_LOGO_CAPCUT" height="55"/>
 
-<br>
+<br><br>
 
-<div align="center">
+### 💻 development
 
-### ✿ design
-
-<img src="https://img.shields.io/badge/figma-F8D8E8?style=for-the-badge&logo=figma&logoColor=5B4636"/>
-
-<img src="https://img.shields.io/badge/photoshop-FFF4B8?style=for-the-badge&logo=adobephotoshop&logoColor=5B4636"/>
-
-<img src="https://img.shields.io/badge/illustrator-F8D8E8?style=for-the-badge&logo=adobeillustrator&logoColor=5B4636"/>
-
-<img src="https://img.shields.io/badge/canva-FFF4B8?style=for-the-badge&logo=canva&logoColor=5B4636"/>
-
-<img src="https://img.shields.io/badge/ux/ui-F8D8E8?style=for-the-badge&logoColor=5B4636"/>
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,tailwind" height="55"/>
 
 </div>
 
